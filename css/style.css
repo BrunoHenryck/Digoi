@@ -250,7 +250,7 @@ img {
     display: flex;
     align-items: center;
     /* Aponta para a sua nova imagem */
-    background-image: url(/images/Imagem-digoi-hero.jpg);
+    background-image: url(images/Imagem-digoi-hero.jpg);
     /* Centraliza e força a imagem a se encaixar perfeitamente */
     background-position: center 15%;
     background-size: cover;
