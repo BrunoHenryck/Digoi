@@ -246,7 +246,7 @@ img {
    ========================================================================== */
 .hero {
     position: relative;
-    min-height: 100vh;
+    min-height: 150vh;
     display: flex;
     align-items: center;
     /* Aponta para a sua nova imagem */
