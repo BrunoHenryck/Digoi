@@ -260,10 +260,7 @@ img {
 }
 
 .hero-overlay {
-    position: absolute;
-    inset: 0;
-    /* Esse gradiente está muito opaco (92% de preto no início) */
-    background: linear-gradient(130deg, rgba(10,10,10,0.92) 0%, rgba(18,18,18,0.75) 100%);
+   display: none;
 }
 
 .hero-content {
